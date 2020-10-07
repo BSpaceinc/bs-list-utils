@@ -29,8 +29,7 @@ impl<'s> HasItemKey<'s, i32> for i32 {
   }
 }
 
-impl<'s> HasItemKey<'s, &'s str> for String
-{
+impl<'s> HasItemKey<'s, &'s str> for String {
   fn get_item_key(&'s self) -> &'s str {
     self
   }
