@@ -1,4 +1,4 @@
 [workspace]
 members = [
-  "crates/bs-list-util"
+  "crates/bs-list-utils"
 ]

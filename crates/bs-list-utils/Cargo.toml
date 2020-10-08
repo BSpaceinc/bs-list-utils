@@ -1,5 +1,5 @@
 [package]
-name = "bs-list-util"
+name = "bs-list-utils"
 version = "0.1.0"
 authors = ["Flux Xu <fluxxu@gmail.com>"]
 edition = "2018"
